@@ -6,8 +6,20 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houstondapaz/guid-parser.git"
+  },
+  "keywords": [
+    "guid",
+    "uuid",
+    ".net",
+    "c#",
+    "mongo",
+    "mongodb"
+  ],
+  "author": "Houston da Paz",
+  "license": "MIT",
   "dependencies": {
     "mongodb": "^3.1.0-beta4",
     "uuid": "^3.2.1"
